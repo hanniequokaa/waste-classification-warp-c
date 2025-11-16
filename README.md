@@ -3,8 +3,8 @@ Project Overview**
 
 This project demonstrates an Edge AI application for classifying recyclable waste using a lightweight CNN model. The goal is to show how a model can be trained, converted to TensorFlow Lite (TFLite), and prepared for deployment on edge devices like Raspberry Pi or microcontrollers.
 
-**Dataset
-**
+**Dataset**
+
 **Name: WaRP-C (WaRP — Waste Recycling Plant Dataset)**
 
 **Source:** Kaggle
